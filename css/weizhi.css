@@ -1,0 +1,280 @@
+.box{
+	width: 120rem;
+	margin:  0 auto;
+}
+
+.header{
+	height: 6.4375rem;
+	width: 100%;
+	display: flex;
+	background-color: #170d06;
+	
+}
+.header img{
+	margin-left: 200px;
+	width: 15.625rem;
+	height: 6.3125rem;
+}
+.header ul{
+	display: flex;
+	margin-left: 480px;
+}
+.header ul li a{
+	display: block;
+	height: 6.4375rem;
+	line-height: 6.4375rem;
+	font-size:1.25rem ;
+	color: white;
+	width:7rem;
+	text-align: center;
+}
+.header ul li a:hover{
+	background-color: #c62d27;
+}
+
+.banner{
+	height: 32.9375rem;
+	width: 100%;
+	
+}
+.banner a{
+	display: block;
+	height:32.9375rem;
+	width: 100%;
+}
+.ads{
+	height: 56.25rem;
+	width: 100%;
+}
+.ads1{
+	width: 77.5rem;
+	margin: 0 auto;
+/* 	border: 1px solid royalblue; */
+	height: 100%;
+}
+.adsp1{
+	font-size:4rem ;
+	color: #333;
+	text-align: center;
+	padding-top: 6.875rem;
+	margin-bottom: 2.5rem;
+}
+.adsp2{
+	font-size: 1.6875rem;
+	color:#999 ;
+	text-align: center;
+	
+}
+.ads1-a{
+	position: relative;
+	width: 100%;
+	
+}
+.ads1-a img{
+	width: 37.75rem;
+	height: 25.1875rem;
+	margin-top: 4.375rem;
+	/* z-index: 1; */
+}
+
+.ads1-a1{
+	padding-left: 6.875rem;
+	padding-right: 6.875rem;
+	padding-top: 5rem;
+	position: absolute;
+	top: 250px;
+	right: 0px;
+	height: 20rem;
+	width: 40rem;
+	/* z-index: 100; */
+	box-shadow: 0px 1px 18px 0px #ccc;
+	background-color: white;
+}
+.a1p1{
+	font-size: 2.375rem;
+	color: #333;
+	
+}
+.a1p2{
+	font-size: 1rem;
+	color: #666;
+	margin-top: 1.875rem;
+	margin-bottom: 3rem;
+}
+.a1a1{
+	display: block;
+	font-size: 1rem;
+	color: #333;
+	width: 7.3125rem;
+	height: 2.9375rem;
+	line-height: 2.6875rem;
+	text-align: center;
+	border-top: 2px solid #ccc;
+	border-bottom: 2px solid #ccc;
+	border-left: 6px solid #ccc;
+	border-right: 6px solid #ccc;
+	
+}
+.lianx{
+	width: 100%;
+	height: 56.25rem;
+	margin-top: 9rem;
+}
+.lianx1{
+	height: 100%;
+	margin:0 auto ;
+	width:77.625rem ;
+}
+.lianx1p1{
+	padding-top: 6.25rem;
+	font-size: 2.375rem;
+	color: #333;
+	text-align: center;
+}
+.lianx1p2{
+	font-size: 1.1875rem;
+	color: #666;
+	text-align: center;
+	margin:  0 auto;
+	width: 28.125rem;
+	margin-top: 1.125rem;
+}
+.lianx-f{
+	display: flex;
+	margin-top:4.375rem;
+}
+.lianx-l{
+	width: 26.5rem;
+	
+}
+.lianx-l .lp{
+	font-size: 1.3125rem;
+	color: #333;
+	/* font-weight: 600; */
+}
+.lianx-l-1{
+	display: flex;
+	margin-top: 2.1875rem;
+}
+.lianx-l .lianx-l-1{
+	color: #666;
+	font-size: 0.875rem;
+	line-height: 1.875rem;
+}
+.lianx-l-1 i{
+	margin-right: 2rem;
+}
+.lianx-r p{
+	font-size: 0.875rem;
+	color: #333;
+	margin-top: 2rem;
+	margin-bottom: 0.875rem;
+	
+}
+.inp{
+	width: 45.9375rem;
+	height: 2.625rem;
+	line-height: 2.625rem;
+	border-top:2px solid #e6e6e6;
+	border-bottom:2px solid #e6e6e6;
+	border-left: 40px solid #e6e6e6;
+	border-right: 40px solid #e6e6e6;
+	border-radius: 0.625rem;
+}
+.tea{
+	width: 45.9375rem;
+	border-top:3px solid #e6e6e6;
+	border-bottom:3px solid #e6e6e6;
+	border-left: 40px solid #e6e6e6;
+	border-right: 40px solid #e6e6e6;
+	height: 7.1875rem;
+	border-radius: 0.625rem;
+}
+.lianx-ra{
+	display: block;
+	width: 12.3125rem;
+	height: 3rem;
+	background-color: #e14f60;
+	color: white;
+	line-height: 3rem;
+	text-align: center;
+	border-radius: 0.625rem;
+	margin-top: 3.125rem;
+	margin-left: 38.625rem;
+	
+}
+
+
+footer{
+	height: 28.75rem;
+	background-color: #555;
+	/* margin-top: 6.25rem; */
+}
+.foodbox{
+	width: 85.9375rem;
+	margin: 0 auto;
+	display:flex;
+	/* border-right: 1px solid springgreen; */
+}
+.food-ul{
+	width: 9.3125rem;
+	color: #b3b3b3;
+	font-size: 1.25rem;
+	margin-top: 6.5625rem;
+}
+.food-ul li a{
+	display: block;
+	width: 100%;
+	height: 2.125rem;
+	line-height:2.125rem ;
+	font-size: 1.125rem;
+	color: #b3b3b3;
+}
+.food-ul li a:hover{
+	color: white;
+}
+.food-ul p{
+	width: 2.125rem;
+	height: 0.0625rem;
+	background-color: #b3b3b3; ;
+	margin-top:1.375rem;
+	margin-bottom: 1.875rem;
+}
+.foodc{
+	width: 17.1875rem;
+	height: 11.875rem;
+/* 	border: 1px solid white ; */
+	margin-top: 11.875rem;
+	margin-left: 3.7rem;
+}
+.foodcflx{
+	display: flex;
+	width: 100%;
+	height: 3.6875rem;
+}
+.foodcflx img{
+	width: 3.6875rem;
+	height: 3.6875rem;
+	margin-left: 2.625rem;
+	
+}
+.foodcflx .f-img{
+	margin-left: 0.4375rem;
+	
+}
+
+.foodcp1{
+	color: #ccc;
+	font-size: 1.125rem;
+	text-align: right;
+	margin-top: 3.125rem;
+}
+.foodcp2{
+	color: #ccc;
+	font-size: 1.125rem;
+	text-align: right;
+	margin-top: 0.75rem;
+}
+.foodcflx i{
+	margin-right: 48px;
+}

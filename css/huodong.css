@@ -1,0 +1,144 @@
+.box{
+	width: 120rem;
+	margin:  0 auto;
+}
+.header{
+	height: 6.4375rem;
+	width: 100%;
+	display: flex;
+	background-color: #170d06;
+	
+}
+.header img{
+	margin-left: 200px;
+	width: 15.625rem;
+	height: 6.3125rem;
+}
+.header ul{
+	display: flex;
+	margin-left: 480px;
+}
+.header ul li a{
+	display: block;
+	height: 6.4375rem;
+	line-height: 6.4375rem;
+	font-size:1.25rem ;
+	color: white;
+	width:7rem;
+	text-align: center;
+}
+.header ul li a:hover{
+	background-color: #c62d27;
+}
+.box2{
+	width: 87.9375rem;
+	margin:  0 auto;
+	display: flex;
+}
+.box2-list{
+	margin-top: 4.375rem;
+	margin-left: 1.4375rem;
+}
+.box2-list img{
+	width: 41.8125rem;
+	height: 23.1875rem;
+	border-radius: 0.625rem;
+}
+.p1{
+	display: flex;
+	font-size: 1.3rem;
+	
+}
+.p2{
+	display: flex;
+	font-size: 1.1rem;
+}
+.p1p1{
+	color: #292929;
+}
+.p1p2{
+	color: #dc5752;
+	margin-left: 3.75rem;
+	
+}
+.p2p1{
+	color: #bfbfbf;
+}
+.p2p2{
+	color: #4ea4ff;
+	margin-bottom: 1.5rem;
+}
+
+footer{
+	height: 28.75rem;
+	background-color: #555;
+	margin-top: 6.25rem;
+}
+.foodbox{
+	width: 85.9375rem;
+	margin: 0 auto;
+	display:flex;
+	/* border-right: 1px solid springgreen; */
+}
+.food-ul{
+	width: 9.3125rem;
+	color: #b3b3b3;
+	font-size: 1.25rem;
+	margin-top: 6.5625rem;
+}
+.food-ul li a{
+	display: block;
+	width: 100%;
+	height: 2.125rem;
+	line-height:2.125rem ;
+	font-size: 1.125rem;
+	color: #b3b3b3;
+}
+.food-ul li a:hover{
+	color: white;
+}
+.food-ul p{
+	width: 2.125rem;
+	height: 0.0625rem;
+	background-color: #b3b3b3; ;
+	margin-top:1.375rem;
+	margin-bottom: 1.875rem;
+}
+.foodc{
+	width: 17.1875rem;
+	height: 11.875rem;
+/* 	border: 1px solid white ; */
+	margin-top: 11.875rem;
+	margin-left: 3.7rem;
+}
+.foodcflx{
+	display: flex;
+	width: 100%;
+	height: 3.6875rem;
+}
+.foodcflx img{
+	width: 3.6875rem;
+	height: 3.6875rem;
+	margin-left: 2.625rem;
+	
+}
+.foodcflx .f-img{
+	margin-left: 0.4375rem;
+	
+}
+
+.foodcp1{
+	color: #ccc;
+	font-size: 1.125rem;
+	text-align: right;
+	margin-top: 3.125rem;
+}
+.foodcp2{
+	color: #ccc;
+	font-size: 1.125rem;
+	text-align: right;
+	margin-top: 0.75rem;
+}
+.foodcflx i{
+	margin-right: 48px;
+}
